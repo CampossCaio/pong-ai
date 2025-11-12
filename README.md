@@ -143,8 +143,8 @@ Feel free to experiment with:
 
 2. **NEAT-Python Library**: CodeReclaimers. NEAT-Python: A pure Python implementation of NEAT. [https://github.com/CodeReclaimers/neat-python](https://github.com/CodeReclaimers/neat-python)
 
-3. **Deep Reinforcement Learning Survey**: Li, Y. (2022). Deep reinforcement learning: An overview. *arXiv preprint*. [https://arxiv.org/pdf/2207.14140](https://arxiv.org/pdf/2207.14140)
+3. **NEAT for 2D Games**: Selvan, J. P., & Game, P. S. Playing a 2D Game Indefinitely using NEAT and Reinforcement Learning. *arXiv preprint*. [https://arxiv.org/pdf/2207.14140](https://arxiv.org/pdf/2207.14140)
 
-4. **RL in Games**: Zhang, H., et al. (2025). Reinforcement learning applications in video games: A comprehensive survey. *arXiv preprint*. [https://arxiv.org/pdf/2507.03793v1](https://arxiv.org/pdf/2507.03793v1)
+4. **Neuroevolution in Gaming**: O'Connor, J., Parker, G. B., & Bugti, M. Learning Dark Souls Combat Through Pixel Input With Neuroevolution. *arXiv preprint*. [https://arxiv.org/pdf/2507.03793v1](https://arxiv.org/pdf/2507.03793v1)
 
-5. **DQN Paper**: Mnih, V., et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529-533. [https://arxiv.org/pdf/1509.06461](https://arxiv.org/pdf/1509.06461)
+5. **Double DQN**: van Hasselt, H., Guez, A., & Silver, D. Deep Reinforcement Learning with Double Q-learning. *arXiv preprint*. [https://arxiv.org/pdf/1509.06461](https://arxiv.org/pdf/1509.06461)
