@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+# models/
+# checkpoints/
+# *.pkl
+# *.chkpt
+# *.pth
+# *.h5
+
+# Results and logs
+# results/
+# logs/
+# *.log
+
+# Plots and images
+# *.png
+# *.jpg
+# *.svg
+# *.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+*.tmp
+*.temp
